@@ -1,0 +1,2 @@
+model_checkpoint_path: "Mnist_cnn_model.weight"
+all_model_checkpoint_paths: "Mnist_cnn_model.weight"
